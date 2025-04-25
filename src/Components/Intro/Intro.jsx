@@ -27,7 +27,7 @@ function Intro() {
                 <span>Abhay Pratap Singh</span>
                 <span>A dedicated and innovative software developer with a strong background in Next.js, React, and TypeScript. I have handled a wide range of responsibilities from backend management of user data to creating APIs and integrating them at the frontend. I have a knack for transforming Figma designs into functional UI pages, ensuring a seamless user experience. My ability to understand and translate business requirements into software solutions and my commitment to on-time delivery make me a valuable asset to any team. Always eager to embrace new challenges and technologies in the ever-evolving world of web development.</span>
             </div>
-            <a href='https://www.linkedin.com/in/yogesh-kumar-9b587b252' ><button className="i-button button">Hire Me</button></a>
+            <a href="https://www.linkedin.com/in/abhay-pratap-singh-aps2810/" ><button className="i-button button">Hire Me</button></a>
             <div className="i-icons">
                 <a href="https://github.com/Abhay-Pratap-SINGH28" target='_blank' rel='noreferrer'>
                 <img src={Github} alt="" />
